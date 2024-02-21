@@ -1,0 +1,1 @@
+"# Course Compass client repo" 
